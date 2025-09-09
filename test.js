@@ -1,5 +1,5 @@
 console.log("welcome to git part 2")
 let sessionName="Matrimorphosis"
 let topicName="resolving conflict"
-let duration="2 hours"
+let duration="2.5 hours"
 let trainerName="Sudha"
